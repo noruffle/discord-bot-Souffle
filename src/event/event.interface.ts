@@ -1,4 +1,4 @@
-import { EventExec, EventKeys } from '../';
+import { EventExec, EventKeys } from './';
 
 export interface Event<T extends EventKeys> {
   id: T

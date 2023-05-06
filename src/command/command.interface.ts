@@ -1,4 +1,4 @@
-import { CommandExec, CommandMeta } from '../';
+import { CommandExec, CommandMeta } from './';
 
 export interface Command {
   meta: CommandMeta
